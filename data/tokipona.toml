@@ -1,0 +1,538 @@
+[!]
+category = "separator"
+gloss = "exclamation"
+grammar = ["punct"]
+name = "!"
+type = "punctuation"
+[,]
+category = "separator"
+gloss = "comma"
+grammar = ["punct"]
+name = ","
+type = "punctuation"
+[.]
+category = "separator"
+gloss = "period"
+grammar = ["punct"]
+name = "."
+type = "punctuation"
+[:]
+category = "separator"
+gloss = "colon"
+grammar = ["punct"]
+name = ":"
+type = "punctuation"
+[?]
+category = "separator"
+gloss = "question"
+grammar = ["punct"]
+name = "?"
+type = "punctuation"
+[a]
+gloss = "ah"
+grammar = ["interj"]
+name = "a"
+[akesi]
+category = "animal"
+gloss = "reptile"
+grammar = ["n"]
+name = "akesi"
+[ala]
+gloss = "no"
+grammar = ["mod","n","interj"]
+name = "ala"
+[ali]
+gloss = "all"
+grammar = ["n","mod"]
+name = "ali"
+[anpa]
+gloss = "under"
+grammar = ["n","mod"]
+name = "anpa"
+[ante]
+gloss = "different"
+grammar = ["n","mod","conj","vt"]
+name = "ante"
+[anu]
+category = "separator"
+gloss = "or"
+grammar = ["conj"]
+name = "anu"
+[awen]
+gloss = "remain"
+grammar = ["vi","vt","mod"]
+name = "awen"
+[e]
+category = "separator"
+gloss = "object marker"
+grammar = ["sep"]
+name = "e"
+[en]
+category = "separator"
+gloss = "and"
+grammar = ["conj"]
+name = "en"
+[esun]
+gloss = "shop"
+grammar = ["n"]
+name = "esun"
+[ijo]
+gloss = "thing"
+grammar = ["n","mod","vt"]
+name = "ijo"
+[ike]
+gloss = "evil"
+grammar = ["mod","interj","n","vt","vi"]
+name = "ike"
+[ilo]
+gloss = "tool"
+grammar = ["n"]
+name = "ilo"
+[insa]
+gloss = "inside"
+grammar = ["n","mod"]
+name = "insa"
+[jaki]
+gloss = "dirty"
+grammar = ["mod","n","vt","interj"]
+name = "jaki"
+[jan]
+category = "animal"
+gloss = "person"
+grammar = ["n","mod","vt"]
+name = "jan"
+[jelo]
+category = "color"
+gloss = "yellow"
+grammar = ["mod"]
+name = "jelo"
+[jo]
+gloss = "have"
+grammar = ["vt","n"]
+name = "jo"
+[kala]
+category = "animal"
+gloss = "fish"
+grammar = ["n"]
+name = "kala"
+[kalama]
+gloss = "sound"
+grammar = ["n","vi","vt"]
+name = "kalama"
+[kama]
+gloss = "come"
+grammar = ["vi","n","mod","vt"]
+name = "kama"
+[kasi]
+gloss = "plant"
+grammar = ["n"]
+name = "kasi"
+[ken]
+gloss = "possible"
+grammar = ["vi","n","vt"]
+name = "ken"
+[kepeken]
+gloss = "use"
+grammar = ["vt","prep"]
+name = "kepeken"
+[kili]
+gloss = "fruit"
+grammar = ["n"]
+name = "kili"
+[kin]
+gloss = "also"
+grammar = ["mod"]
+name = "kin"
+[kiwen]
+gloss = "rock"
+grammar = ["mod","n"]
+name = "kiwen"
+[ko]
+gloss = "squishy"
+grammar = ["n"]
+name = "ko"
+[kon]
+gloss = "soul"
+grammar = ["n","mod"]
+name = "kon"
+[kule]
+gloss = "color"
+grammar = ["n","mod","vt"]
+name = "kule"
+[kulupu]
+gloss = "group"
+grammar = ["n","mod"]
+name = "kulupu"
+[kute]
+gloss = "listen"
+grammar = ["vt","mod"]
+name = "kute"
+[la]
+category = "separator"
+gloss = "in context"
+grammar = ["sep"]
+name = "la"
+[lape]
+gloss = "rest"
+grammar = ["n","vi","mod"]
+name = "lape"
+[laso]
+category = "color"
+gloss = "blue/green"
+grammar = ["mod"]
+name = "laso"
+[lawa]
+gloss = "head"
+grammar = ["n","mod","vt"]
+name = "lawa"
+[len]
+gloss = "cloth"
+grammar = ["n"]
+name = "len"
+[lete]
+gloss = "cold"
+grammar = ["n","mod","vt"]
+name = "lete"
+[li]
+category = "separator"
+gloss = "is"
+grammar = ["sep"]
+name = "li"
+[lili]
+gloss = "small"
+grammar = ["mod","vt"]
+name = "lili"
+[linja]
+gloss = "string"
+grammar = ["n"]
+name = "linja"
+[lipu]
+gloss = "paper"
+grammar = ["n"]
+name = "lipu"
+[loje]
+category = "color"
+gloss = "red"
+grammar = ["mod"]
+name = "loje"
+[lon]
+gloss = "located"
+grammar = ["prep","vi"]
+name = "lon"
+[luka]
+gloss = "hand"
+grammar = ["n"]
+name = "luka"
+[lukin]
+gloss = "see"
+grammar = ["vt","vi","mod"]
+name = "lukin"
+[lupa]
+gloss = "hole"
+grammar = ["n"]
+name = "lupa"
+[ma]
+gloss = "land"
+grammar = ["n"]
+name = "ma"
+[mama]
+category = "animal"
+gloss = "parent"
+grammar = ["n","mod"]
+name = "mama"
+[mani]
+gloss = "money"
+grammar = ["n"]
+name = "mani"
+[meli]
+category = "animal"
+gloss = "female"
+grammar = ["n","mod"]
+name = "meli"
+[mi]
+gloss = "I/we"
+grammar = ["n","mod"]
+name = "mi"
+[mije]
+category = "animal"
+gloss = "male"
+grammar = ["n","mod"]
+name = "mije"
+[moku]
+gloss = "food"
+grammar = ["n","vt"]
+name = "moku"
+[moli]
+gloss = "death"
+grammar = ["n","vi","vt","mod"]
+name = "moli"
+[monsi]
+gloss = "back"
+grammar = ["n","mod"]
+name = "monsi"
+[mu]
+gloss = "moo!"
+grammar = ["interj"]
+name = "mu"
+[mun]
+gloss = "moon"
+grammar = ["n","mod"]
+name = "mun"
+[musi]
+gloss = "play"
+grammar = ["n","mod","vi","vt"]
+name = "musi"
+[mute]
+gloss = "many"
+grammar = ["mod","n","vt"]
+name = "mute"
+[namako]
+gloss = "extra"
+grammar = ["n","mod"]
+name = "namako"
+[nanpa]
+gloss = "number"
+grammar = ["n"]
+name = "nanpa"
+[nasa]
+gloss = "crazy"
+grammar = ["mod","vt"]
+name = "nasa"
+[nasin]
+gloss = "manner"
+grammar = ["n"]
+name = "nasin"
+[nena]
+gloss = "bump"
+grammar = ["n"]
+name = "nena"
+[ni]
+gloss = "this"
+grammar = ["mod"]
+name = "ni"
+[nimi]
+gloss = "name"
+grammar = ["n"]
+name = "nimi"
+[noka]
+gloss = "leg"
+grammar = ["n"]
+name = "noka"
+[o]
+gloss = "imperative"
+grammar = ["sep","interj"]
+name = "o"
+[oko]
+gloss = "eye"
+grammar = ["n"]
+name = "oko"
+[olin]
+gloss = "love"
+grammar = ["n","mod","vt"]
+name = "olin"
+[ona]
+gloss = "he/she/it"
+grammar = ["n","mod"]
+name = "ona"
+[open]
+gloss = "open"
+grammar = ["vt"]
+name = "open"
+[pakala]
+gloss = "destroy"
+grammar = ["n","vt","vi","interj"]
+name = "pakala"
+[pali]
+gloss = "make"
+grammar = ["n","mod","vt","vi"]
+name = "pali"
+[palisa]
+gloss = "rod"
+grammar = ["n"]
+name = "palisa"
+[pan]
+gloss = "grain"
+grammar = ["n"]
+name = "pan"
+[pana]
+gloss = "give"
+grammar = ["vt","n"]
+name = "pana"
+[pi]
+category = "separator"
+gloss = "of"
+grammar = ["sep"]
+name = "pi"
+[pilin]
+gloss = "feel"
+grammar = ["n","vi","vt"]
+name = "pilin"
+[pimeja]
+category = "color"
+gloss = "black"
+grammar = ["mod","n","vt"]
+name = "pimeja"
+[pini]
+gloss = "end"
+grammar = ["n","mod","vt"]
+name = "pini"
+[pipi]
+category = "animal"
+gloss = "insect"
+grammar = ["n"]
+name = "pipi"
+[poka]
+gloss = "side"
+grammar = ["n","mod","prep"]
+name = "poka"
+[poki]
+gloss = "box"
+grammar = ["n"]
+name = "poki"
+[pona]
+gloss = "good"
+grammar = ["n","mod","interj","vt"]
+name = "pona"
+[pu]
+gloss = "toki ponist"
+grammar = ["n","mod","vi"]
+name = "pu"
+[sama]
+gloss = "similar"
+grammar = ["mod","prep"]
+name = "sama"
+[seli]
+gloss = "warm"
+grammar = ["n","mod","vt"]
+name = "seli"
+[selo]
+gloss = "surface"
+grammar = ["n"]
+name = "selo"
+[seme]
+gloss = "what"
+grammar = ["n","mod","vi"]
+name = "seme"
+[sewi]
+gloss = "superior"
+grammar = ["n","mod"]
+name = "sewi"
+[sijelo]
+gloss = "body"
+grammar = ["n"]
+name = "sijelo"
+[sike]
+gloss = "circle"
+grammar = ["n","mod"]
+name = "sike"
+[sin]
+gloss = "new"
+grammar = ["mod","vt"]
+name = "sin"
+[sina]
+gloss = "you"
+grammar = ["n","mod"]
+name = "sina"
+[sinpin]
+gloss = "front"
+grammar = ["n"]
+name = "sinpin"
+[sitelen]
+gloss = "draw"
+grammar = ["n","vt"]
+name = "sitelen"
+[sona]
+gloss = "wisdom"
+grammar = ["n","vt","vi"]
+name = "sona"
+[soweli]
+category = "animal"
+gloss = "mammal"
+grammar = ["n"]
+name = "soweli"
+[suli]
+gloss = "big"
+grammar = ["mod","vt","n"]
+name = "suli"
+[suno]
+gloss = "light"
+grammar = ["n"]
+name = "suno"
+[supa]
+gloss = "table"
+grammar = ["n"]
+name = "supa"
+[suwi]
+gloss = "sweet"
+grammar = ["n","mod","vt"]
+name = "suwi"
+[tan]
+gloss = "because"
+grammar = ["prep","n"]
+name = "tan"
+[taso]
+gloss = "only"
+grammar = ["mod","conj"]
+name = "taso"
+[tawa]
+gloss = "move"
+grammar = ["prep","vi","n","mod","vt"]
+name = "tawa"
+[telo]
+gloss = "liquid"
+grammar = ["n","vt"]
+name = "telo"
+[tenpo]
+gloss = "time"
+grammar = ["n"]
+name = "tenpo"
+[toki]
+gloss = "talking"
+grammar = ["n","mod","vt","vi","interj"]
+name = "toki"
+[tomo]
+gloss = "house"
+grammar = ["n","mod"]
+name = "tomo"
+[tu]
+gloss = "two"
+grammar = ["mod","n"]
+name = "tu"
+[unpa]
+gloss = "sex"
+grammar = ["n","mod","vt","vi"]
+name = "unpa"
+[uta]
+gloss = "mouth"
+grammar = ["n","mod"]
+name = "uta"
+[utala]
+gloss = "attack"
+grammar = ["n","vt"]
+name = "utala"
+[walo]
+category = "color"
+gloss = "white"
+grammar = ["mod","n"]
+name = "walo"
+[wan]
+gloss = "one"
+grammar = ["mod","n","vt"]
+name = "wan"
+[waso]
+category = "animal"
+gloss = "bird"
+grammar = ["n"]
+name = "waso"
+[wawa]
+gloss = "power"
+grammar = ["n","mod","vt"]
+name = "wawa"
+[weka]
+gloss = "away"
+grammar = ["mod","n","vt"]
+name = "weka"
+[wile]
+gloss = "need"
+grammar = ["vt","n","mod"]
+name = "wile"
