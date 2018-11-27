@@ -5,17 +5,17 @@ const toki = require("./tokipona.json");
 var result = {};
 var kinds = {};
 
-toki.forEach((obj) => {
-    let name = obj["name"];
-    delete obj["name"];
-    result[name] = obj;
+toki.forEach((koha) => {
+    let name = koha["name"];
+    delete koha["name"];
+    result[name] = koha;
 
-    obj.grammar.forEach((koha) => {
-        if (kinds[koha] == null) {
-            kinds[koha] = 0;
+    koha.grammar.forEach((kohe) => {
+        if (kinds[kohe] == null) {
+            kinds[kohe] = 0;
         }
 
-        kinds[koha] += 1;
+        kinds[kohe] += 1;
     });
 });
 
