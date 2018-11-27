@@ -3,9 +3,20 @@ const json2toml = require("json2toml");
 const toki = require("./tokipona.json");
 
 var result = {};
+var kinds = {};
 
 toki.forEach((obj) => {
-    result[obj["name"]] = obj;
+    let name = obj["name"];
+    delete obj["name"];
+    result[name] = obj;
+
+    obj.grammar.forEach((koha) => {
+        if (kinds[koha] == null) {
+            kinds[koha] = 0;
+        }
+
+        kinds[koha] += 1;
+    });
 });
 
 fs.writeFile("tokipona.toml", json2toml(result), (err) => {
@@ -13,3 +24,5 @@ fs.writeFile("tokipona.toml", json2toml(result), (err) => {
         throw err;
     }
 });
+
+console.log(kinds);
