@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	_ "github.com/kkdai/cyk"
+	_ "github.com/ghigt/gocyk"
 )
 
 var (
