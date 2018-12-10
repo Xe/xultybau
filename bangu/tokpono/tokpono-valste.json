@@ -1,0 +1,2068 @@
+[{
+        "word": "a",
+        "definitions": {
+            "interj": {
+                "meanings": ["ah!", "ha!", "oh!", "ooh!", "aw!", "(emotion word)"],
+                "full_name": "interjection"
+            }
+        },
+        "examples": [{
+            "toki-pona": "a a a a!",
+            "english": "Hahaha!"
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "akesi",
+        "definitions": {
+            "n": {
+                "meanings": ["non-cute animal", "reptile", "amphibian", "dinosaur", "monster"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [{
+            "toki-pona": "a! akesi suli li wile moku mi!",
+            "english": "Ahh! The dinosaur wants to eat me!"
+        }, {
+            "toki-pona": "akesi li pana e telo moli.",
+            "english": "The snake spits venom."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "ala",
+        "definitions": {
+            "mod": {
+                "meanings": ["not", "none", "no", "un-"],
+                "full_name": "modifier"
+            },
+            "n": {
+                "meanings": ["nothing", "negation", "zero"],
+                "full_name": "noun"
+            },
+            "interj": {
+                "meanings": ["no!"],
+                "full_name": "interjection"
+            }
+        },
+        "examples": [{
+            "toki-pona": "jan wawa ala",
+            "english": "no strong people"
+        }, {
+            "toki-pona": "jan pi wawa ala",
+            "english": "weak people"
+        }, {
+            "toki-pona": "sina pona ala pona?",
+            "english": "Are you OK?"
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "alasa",
+        "definitions": {
+            "vt": {
+                "meanings": ["hunt", "gather"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [{
+                "toki-pona": "tenpo pini la jan ali li alasa e soweli e kili.",
+                "english": "In the past, everybody hunted buffalo and fruit."
+            },
+            {
+                "toki-pona": "jan alasa pona li wawa li sona pona e ma ona li pona tawa meli mute",
+                "english": "A good hunter is strong, knows his land well, and is liked by many women."
+            }
+        ],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "ali/ale",
+        "definitions": {
+            "n": {
+                "meanings": ["everything", "anything", "life", "the universe"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["all", "every", "complete", "whole"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [{
+            "toki-pona": "toki jan ali!",
+            "english": "Hello everybody!"
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "anpa",
+        "definitions": {
+            "n": {
+                "meanings": ["bottom", "down", "under", "below", "floor", "beneath"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["low", "lower", "bottom"],
+                "full_name": "modifier"
+            },
+            "vt": {
+                "meanings": ["lower", "down", "defeat", "overcome"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [{
+            "toki-pona": "ma li lon anpa mi.",
+            "english": "The land is beneath me."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "ante",
+        "definitions": {
+            "n": {
+                "meanings": ["difference"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["different"],
+                "full_name": "modifier"
+            },
+            "cont": {
+                "meanings": ["otherwise", "or else"],
+                "full_name": "context word used before 'la'"
+            },
+            "vt": {
+                "meanings": ["change", "alter", "modify"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [{
+            "toki-pona": "mani pi ma ante li pona tawa mi.",
+            "english": "I like the currency of other nations."
+        }, {
+            "toki-pona": "pipi ni li ike tawa mi. pipi ante li pona tawa mi.",
+            "english": "I don't like this insect, I like other insects."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "anu",
+        "definitions": {
+            "conj": {
+                "meanings": ["or"],
+                "full_name": "conjunction"
+            }
+        },
+        "examples": [{
+            "toki-pona": "ona anu mi li pona tawa sina?",
+            "english": "Do you like him or me?"
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "awen",
+        "definitions": {
+            "vi": {
+                "meanings": ["stay", "wait", "remain"],
+                "full_name": "intransitive verb"
+            },
+            "vt": {
+                "meanings": ["keep"],
+                "full_name": "transitive verb"
+            },
+            "mod": {
+                "meanings": ["remaining", "stationary", "permanent", "sedantry"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [{
+            "toki-pona": "o awen tawa mi!",
+            "english": "Wait for me!"
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "e",
+        "definitions": {
+            "sep": {
+                "meanings": ["(introduces direct object)"],
+                "full_name": "seperator"
+            }
+        },
+        "examples": [{
+            "toki-pona": "mi moku e moku e telo",
+            "english": "I consume food and water"
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "en",
+        "definitions": {
+            "conj": {
+                "meanings": ["and"],
+                "full_name": "conjunction"
+            }
+        },
+        "examples": [{
+            "toki-pona": "mi en sina li jan pona.",
+            "english": "You and I friends."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "esun",
+        "definitions": {
+            "n": {
+                "meanings": ["marketplace", "shop", "place of trade"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [{
+            "toki-pona": "mi en sina li jan pona.",
+            "english": "You and I friends."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "ijo",
+        "definitions": {
+            "n": {
+                "meanings": ["thing", "something", "stuff", "anything", "object"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["of something"],
+                "full_name": "modifier"
+            },
+            "vt": {
+                "meanings": ["objectify"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [{
+            "toki-pona": "mi wile kama jo e ijo.",
+            "english": "I want to get something."
+        }, {
+            "toki-pona": "tenpo pini la mi moku e ijo. tenpo ni la mi wile pana e ko jaki.",
+            "english": "I ate something, and now I need to defecate."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "ike",
+        "definitions": {
+            "mod": {
+                "meanings": ["bad", "evil", "wrong", "evil", "overly complex", "(figuratively) unhealthy"],
+                "full_name": "modifier"
+            },
+            "interj": {
+                "meanings": ["oh dear!", "woe!", "damn!", "alas!"],
+                "full_name": "interjection"
+            },
+            "n": {
+                "meanings": ["negativity", "evil", "badness"],
+                "full_name": "noun"
+            },
+            "vt": {
+                "meanings": ["to make bad", "to worsen", "to have a negative effect upon"],
+                "full_name": "transitive verb"
+            },
+            "vi": {
+                "meanings": ["to be bad", "to suck"],
+                "full_name": "intransitive verb"
+            }
+        },
+        "examples": [{
+            "toki-pona": "sina ike!",
+            "english": "You suck!"
+        }, {
+            "toki-pona": "ike!",
+            "english": "Damn it!"
+        }, {
+            "toki-pona": "ike li pona ala tawa mi.",
+            "english": "I do not like negativity."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "ilo",
+        "definitions": {
+            "n": {
+                "meanings": ["tool", "device", "machine", "thing used for a specific purpose"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [{
+            "toki-pona": "mi pona e ilo kepeken mi luka",
+            "english": "I fixed the tool using my hands."
+        }, {
+            "toki-pona": "sina kepeken ilo seme?",
+            "english": "What tool do you use?"
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "insa",
+        "definitions": {
+            "n": {
+                "meanings": ["inside", "inner world", "centre", "stomach"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["internal", "central"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [{
+            "toki-pona": "insa mi pakala.",
+            "english": "My stomach hurts."
+        }, {
+            "toki-pona": "moku li lon insa mi.",
+            "english": "Food is inside me."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "jaki",
+        "definitions": {
+            "mod": {
+                "meanings": ["dirty", "gross", "filthy"],
+                "full_name": "modifier"
+            },
+            "n": {
+                "meanings": ["dirt", "pollution", "filth"],
+                "full_name": "noun"
+            },
+            "vt": {
+                "meanings": ["pollute", "to dirty"],
+                "full_name": "transitive verb"
+            },
+            "interj": {
+                "meanings": ["ew!", "yuck!"],
+                "full_name": "interjection"
+            }
+        },
+        "examples": [{
+            "toki-pona": "linja lawa mi li jaki.",
+            "english": "My hair is dirty."
+        }, {
+            "toki-pona": "mi wile jaki e ma tomo.",
+            "english": "I want to pollute the city."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "jan",
+        "definitions": {
+            "n": {
+                "meanings": ["person", "people", "human", "being", "somebody", "anybody"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["personal", "human", "somebody\u2019s", "of people"],
+                "full_name": "modifier"
+            },
+            "vt": {
+                "meanings": ["personify", "humanize", "personalize"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [{
+            "toki-pona": "jan Susi li nasa.",
+            "english": "Susan is silly."
+        }, {
+            "toki-pona": "jan ali li wile tawa musi.",
+            "english": "Everybody wants to dance."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "jelo",
+        "definitions": {
+            "mod": {
+                "meanings": ["yellow", "light green"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [{
+            "toki-pona": "len mi li jelo.",
+            "english": "My clothes are yellow."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "jo",
+        "definitions": {
+            "vt": {
+                "meanings": ["have", "contain"],
+                "full_name": "transitive verb"
+            },
+            "n": {
+                "meanings": ["having"],
+                "full_name": "noun"
+            },
+            "kama": {
+                "meanings": ["recieve", "get", "take", "obtain"],
+                "full_name": "compound verb proceeded by 'kama'"
+            }
+        },
+        "examples": [{
+            "toki-pona": "mi jo e soweli.",
+            "english": "I have a dog."
+        }, {
+            "toki-pona": "sina wile kama jo mani tan tomo mani",
+            "english": "You want to get some money from the bank."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "kala",
+        "definitions": {
+            "n": {
+                "meanings": ["fish", "sea creature"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [{
+            "toki-pona": "ona moku e kala.",
+            "english": "She ate the fish."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "kalama",
+        "definitions": {
+            "n": {
+                "meanings": ["sound", "noise", "voice"],
+                "full_name": "noun"
+            },
+            "vi": {
+                "meanings": ["make noise"],
+                "full_name": "intransitive verb"
+            },
+            "vt": {
+                "meanings": ["sound", "ring", "play (an instrument)"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [{
+            "toki-pona": "mi kute e kalama musi.",
+            "english": "I listen to music."
+        }, {
+            "toki-pona": "sina kalama. ni li pona tawa mi.",
+            "english": "I like you making noise."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "kama",
+        "definitions": {
+            "n": {
+                "meanings": ["event", "happening", "chance", "arrival", "beginning"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["coming", "future"],
+                "full_name": "modifier"
+            },
+            "vi": {
+                "meanings": ["come", "become", "arrive", "happen", "pursue actions to arrive to (a certain state)", "manage to", "start to"],
+                "full_name": "intransitive verb"
+            },
+            "vt": {
+                "meanings": ["bring about", "summon"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [{
+            "toki-pona": "mi wile kama sona.",
+            "english": "I want to learn."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "kasi",
+        "definitions": {
+            "n": {
+                "meanings": ["plant", "leaf", "herb", "tree", "wood"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [{
+            "toki-pona": "kasi ni li suli.",
+            "english": "This tree is big."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "ken",
+        "definitions": {
+            "n": {
+                "meanings": ["possibility", "ability", "power to do things", "permission"],
+                "full_name": "noun"
+            },
+            "vi": {
+                "meanings": ["can", "is able to", "is allowed to", "may", "is possible"],
+                "full_name": "intransitive verb"
+            },
+            "vt": {
+                "meanings": ["make possible", "enable", "allow", "permit"],
+                "full_name": "transitive verb"
+            },
+            "cont": {
+                "meanings": ["it is possible that"],
+                "full_name": "context word used before 'la'"
+            }
+        },
+        "examples": [{
+            "toki-pona": "meli mi li ken moku e telo nasa!",
+            "english": "My wife can drink alchohol!"
+        }, {
+            "toki-pona": "mi jo ala ken.",
+            "english": "I do not have permission."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "kepeken",
+        "definitions": {
+            "vt": {
+                "meanings": ["using"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [{
+            "toki-pona": "mi moku kepeken uta mi.",
+            "english": "I eat with/using my mouth."
+        }, {
+            "toki-pona": "ona li pali kepeken suno",
+            "english": "It works using light."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "kin",
+        "definitions": {
+            "mod": {
+                "meanings": ["also", "too", "even", "indeed (emphasizes the word that follows)"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "kiwen",
+        "definitions": {
+            "n": {
+                "meanings": ["hard thing", "rock", "stone", "metal", "mineral", "clay"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["hard", "solid", "stone-like", "made of stone or metal"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "kon",
+        "definitions": {
+            "n": {
+                "meanings": ["air", "wind", "odour", "soul"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["air-like", "ethereal", "gaseous"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "kule",
+        "definitions": {
+            "n": {
+                "meanings": ["color", "paint"],
+                "full_name": "noun"
+            },
+            "vt": {
+                "meanings": ["color", "paint"],
+                "full_name": "transitive verb"
+            },
+            "mod": {
+                "meanings": ["colourful"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "kulupu",
+        "definitions": {
+            "n": {
+                "meanings": ["group", "community", "society", "company"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["communal", "shared", "public", "of the society"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "kute",
+        "definitions": {
+            "vt": {
+                "meanings": ["listen", "hear"],
+                "full_name": "transitive verb"
+            },
+            "mod": {
+                "meanings": ["auditory", "hearing"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "la",
+        "definitions": {
+            "sep": {
+                "meanings": ["(between adverb or phrase of context and sentence)"],
+                "full_name": "seperator"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "lape",
+        "definitions": {
+            "n": {
+                "meanings": ["sleep", "rest"],
+                "full_name": "noun"
+            },
+            "vi": {
+                "meanings": ["sleep", "rest"],
+                "full_name": "intransitive verb"
+            },
+            "mod": {
+                "meanings": ["sleeping", "of sleep"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "laso",
+        "definitions": {
+            "mod": {
+                "meanings": ["blue", "blue-green"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "lawa",
+        "definitions": {
+            "n": {
+                "meanings": ["head", "mind"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["main", "leading", "in charge"],
+                "full_name": "modifier"
+            },
+            "vt": {
+                "meanings": ["lead", "control", "rule", "steer"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "len",
+        "definitions": {
+            "n": {
+                "meanings": ["clothing", "cloth", "fabric"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "lete",
+        "definitions": {
+            "n": {
+                "meanings": ["cold"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["cold", "uncooked"],
+                "full_name": "modifier"
+            },
+            "vt": {
+                "meanings": ["cool down", "chill", "freeze"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "li",
+        "definitions": {
+            "sep": {
+                "meanings": ["(between any subject except mi and sina and its verb; also used to introduce a new verb for the same subject)"],
+                "full_name": "seperator"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "lili",
+        "definitions": {
+            "mod": {
+                "meanings": ["small", "little", "young", "a bit", "short", "fes", "less"],
+                "full_name": "modifier"
+            },
+            "vt": {
+                "meanings": ["reduce", "shorten", "shrink", "lessen"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "linja",
+        "definitions": {
+            "n": {
+                "meanings": ["very thin, floppy thing, such as string, rope, hair, thread, cord and chain"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "lipu",
+        "definitions": {
+            "n": {
+                "meanings": ["flat and bendable thing, such as paper, card or a ticket"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "loje",
+        "definitions": {
+            "mod": {
+                "meanings": ["red"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "lon",
+        "definitions": {
+            "vi": {
+                "meanings": ["be there", "be present", "be real/true", "exist", "be awake"],
+                "full_name": "intransitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "luka",
+        "definitions": {
+            "n": {
+                "meanings": ["hand", "arm"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["five"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "lukin",
+        "definitions": {
+            "vt": {
+                "meanings": ["see", "look at", "watch", "read"],
+                "full_name": "transitive verb"
+            },
+            "vi": {
+                "meanings": ["look", "watch out", "pay attention"],
+                "full_name": "intransitive verb"
+            },
+            "mod": {
+                "meanings": ["visual"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "ma",
+        "definitions": {
+            "n": {
+                "meanings": ["land", "earth", "country", "(outdoor) area"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "mama",
+        "definitions": {
+            "n": {
+                "meanings": ["parent", "mother", "father"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["of the parent", "parental", "maternal", "fatherly"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "mani",
+        "definitions": {
+            "n": {
+                "meanings": ["money", "material wealth", "currency", "dolar", "capital"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "meli",
+        "definitions": {
+            "n": {
+                "meanings": ["woman", "female", "girl", "wife", "girlfriend"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["female", "feminine", "womanly"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "mi",
+        "definitions": {
+            "n": {
+                "meanings": ["I", "we"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["my", "our"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "mije",
+        "definitions": {
+            "n": {
+                "meanings": ["man", "male", "husband", "boyfriend"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["male", "masculine", "manly"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "moku",
+        "definitions": {
+            "n": {
+                "meanings": ["food", "meal"],
+                "full_name": "noun"
+            },
+            "vt": {
+                "meanings": ["eat", "drink", "swallow", "ingest", "consume"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "moli",
+        "definitions": {
+            "n": {
+                "meanings": ["death"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["dead", "deadly", "fatal"],
+                "full_name": "modifier"
+            },
+            "vt": {
+                "meanings": ["kill"],
+                "full_name": "transitive verb"
+            },
+            "vi": {
+                "meanings": ["die", "be dead"],
+                "full_name": "intransitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "monsi",
+        "definitions": {
+            "n": {
+                "meanings": ["back", "rear end", "butt", "behind"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["back", "rear"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "mu",
+        "definitions": {
+            "interj": {
+                "meanings": ["woof!", "meow!", "moo!", "etc... (cute animal noise)"],
+                "full_name": "interjection"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "mun",
+        "definitions": {
+            "n": {
+                "meanings": ["moon"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["lunar"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "musi",
+        "definitions": {
+            "n": {
+                "meanings": ["fun", "playing", "game", "recreation", "art", "entertainment"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["artful", "fun", "recreational"],
+                "full_name": "modifier"
+            },
+            "vi": {
+                "meanings": ["play", "have fun"],
+                "full_name": "intransitive verb"
+            },
+            "vt": {
+                "meanings": ["amuse", "entertain"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "mute",
+        "definitions": {
+            "mod": {
+                "meanings": ["many", "several", "very", "much", "a lot", "abundant", "numerous", "more"],
+                "full_name": "modifier"
+            },
+            "n": {
+                "meanings": ["amount", "quantity"],
+                "full_name": "noun"
+            },
+            "vt": {
+                "meanings": ["make many or much"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "nanpa",
+        "definitions": {
+            "n": {
+                "meanings": ["number"],
+                "full_name": "noun"
+            },
+            "other": {
+                "meanings": ["-th (ordinal number)"],
+                "full_name": "special word"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "namako",
+        "definitions": {
+            "n": {
+                "meanings": [
+                    "food additive", "accessory", "something extra"
+                ],
+                "full_name": "noun"
+            },
+            "vt": {
+                "meanings": [
+                    "season", "embelish", "stimulate"
+                ],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    },
+    {
+        "word": "nasa",
+        "definitions": {
+            "mod": {
+                "meanings": ["silly", "crazy", "foolish", "drunk", "strange", "stupid", "weird"],
+                "full_name": "modifier"
+            },
+            "vt": {
+                "meanings": ["drive crazy", "make weird"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "nasin",
+        "definitions": {
+            "n": {
+                "meanings": ["way", "manner", "custom", "road", "path", "doctrine", "system", "method"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "nena",
+        "definitions": {
+            "n": {
+                "meanings": ["bump", "hill", "mountain", "button", "nose"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "ni",
+        "definitions": {
+            "mod": {
+                "meanings": ["this", "that"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "nimi",
+        "definitions": {
+            "n": {
+                "meanings": ["word", "name"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "noka",
+        "definitions": {
+            "n": {
+                "meanings": ["leg", "foot"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "o",
+        "definitions": {
+            "sep": {
+                "meanings": ["O (vocative or imperative)"],
+                "full_name": "seperator"
+            },
+            "interj": {
+                "meanings": ["hey! (calling somebody's attention)"],
+                "full_name": "interjection"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "oko",
+        "definitions": {
+            "n": {
+                "meanings": ["eye"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "olin",
+        "definitions": {
+            "n": {
+                "meanings": ["love"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["love"],
+                "full_name": "modifier"
+            },
+            "vt": {
+                "meanings": ["to love (a person)"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "ona",
+        "definitions": {
+            "n": {
+                "meanings": ["he", "she", "it", "they"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["his", "her", "its", "their"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "open",
+        "definitions": {
+            "vt": {
+                "meanings": ["open", "turn on"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "pakala",
+        "definitions": {
+            "n": {
+                "meanings": ["blunder", "accident", "mistake", "destruction", "damage", "breaking"],
+                "full_name": "noun"
+            },
+            "vt": {
+                "meanings": ["screw up", "botch", "ruin", "break", "hurt", "injure", "damage", "bungle", "spoil", "ruin"],
+                "full_name": "transitive verb"
+            },
+            "vi": {
+                "meanings": ["screw up", "fall apart", "break"],
+                "full_name": "intransitive verb"
+            },
+            "interj": {
+                "meanings": ["damn!", "f*ck!"],
+                "full_name": "interjection"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "pali",
+        "definitions": {
+            "n": {
+                "meanings": ["activity", "work", "deed", "project"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["active", "work-related", "operating", "working"],
+                "full_name": "modifier"
+            },
+            "vt": {
+                "meanings": ["do", "make", "build", "create"],
+                "full_name": "transitive verb"
+            },
+            "vi": {
+                "meanings": ["act", "work", "function"],
+                "full_name": "intransitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "palisa",
+        "definitions": {
+            "n": {
+                "meanings": ["long, mostly hard object, e.g. rod, stick, branch"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "pan",
+        "definitions": {
+            "n": {
+                "meanings": [
+                    "cereal",
+                    "grain",
+                    "barley",
+                    "cord",
+                    "oat",
+                    "rice",
+                    "wheat",
+                    "bread",
+                    "pasta"
+                ],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "pana",
+        "definitions": {
+            "vt": {
+                "meanings": ["give", "put", "send", "place", "release", "emit", "cause"],
+                "full_name": "transitive verb"
+            },
+            "n": {
+                "meanings": ["giving", "transfer", "exchange"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "pi",
+        "definitions": {
+            "sep": {
+                "meanings": ["of", "belonging to"],
+                "full_name": "seperator"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "pilin",
+        "definitions": {
+            "n": {
+                "meanings": ["feelings", "emotion", "heart"],
+                "full_name": "noun"
+            },
+            "vt": {
+                "meanings": ["feel", "think", "sense", "touch"],
+                "full_name": "transitive verb"
+            },
+            "vi": {
+                "meanings": ["feel"],
+                "full_name": "intransitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "pimeja",
+        "definitions": {
+            "mod": {
+                "meanings": ["black", "dark"],
+                "full_name": "modifier"
+            },
+            "n": {
+                "meanings": ["darkness", "shadows"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "pini",
+        "definitions": {
+            "n": {
+                "meanings": ["end", "tip"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["completed", "finished", "past", "done", "ago"],
+                "full_name": "modifier"
+            },
+            "vt": {
+                "meanings": ["finish", "close", "end", "turn off"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "pipi",
+        "definitions": {
+            "n": {
+                "meanings": ["bug", "insect", "spider"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "poka",
+        "definitions": {
+            "n": {
+                "meanings": ["side", "hip", "next to"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["neighboring"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "pona",
+        "definitions": {
+            "n": {
+                "meanings": ["good", "simplicity", "positivity"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["good", "simple", "positive", "nice", "correct", "right"],
+                "full_name": "modifier"
+            },
+            "interj": {
+                "meanings": ["great!", "good!", "thanks!", "OK!", "cool!", "yay!... etc."],
+                "full_name": "interjection"
+            },
+            "vt": {
+                "meanings": ["fix", "repair", "make good"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "pu",
+        "definitions": {
+            "n": {
+                "meanings": ["the Toki Pona book", "(rarely) a book or books"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["relating to the official Toki Pona book", "relating to the official and original grammar of Toki Pona."],
+                "full_name": "modifier"
+            },
+            "v": {
+                "meanings": ["to use Toki Pona following the official and original grammar", "to read the Toki Pona book"]
+            }
+        },
+        "examples": [{
+            "toki-pona": "mi pu lon tomo telo",
+            "english": "I read the official Toki Pona book in the restroom."
+        }],
+        "misc": {
+            "notes": ""
+        }
+    },
+    {
+        "word": "sama",
+        "definitions": {
+            "mod": {
+                "meanings": ["same", "similar", "equal", "equal of status or position"],
+                "full_name": "modifier"
+            },
+            "cont": {
+                "meanings": ["similarly", "in the same way that"],
+                "full_name": "context word used before 'la'"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "seli",
+        "definitions": {
+            "n": {
+                "meanings": ["fire", "warmth", "heat"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["hot", "warm", "cooked"],
+                "full_name": "modifier"
+            },
+            "vt": {
+                "meanings": ["heat", "warm up", "cook"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "selo",
+        "definitions": {
+            "n": {
+                "meanings": ["outside", "surface", "skin", "shell", "bark", "shape", "peel"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "seme",
+        "definitions": {
+            "other": {
+                "meanings": ["what", "which", "wh- (question word)"],
+                "full_name": "special word"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "sewi",
+        "definitions": {
+            "n": {
+                "meanings": ["high", "up", "above", "top", "over", "on"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["superior", "elevated", "religious", "formal"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "sijelo",
+        "definitions": {
+            "n": {
+                "meanings": ["body", "physical state"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "sin",
+        "definitions": {
+            "mod": {
+                "meanings": ["new", "fresh", "another", "more"],
+                "full_name": "modifier"
+            },
+            "vt": {
+                "meanings": ["renew", "renovate", "freshen"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "sina",
+        "definitions": {
+            "n": {
+                "meanings": ["you"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["your"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "sinpin",
+        "definitions": {
+            "n": {
+                "meanings": ["front", "chest", "torso", "wall"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "sitlen",
+        "definitions": {
+            "n": {
+                "meanings": ["picture", "image"],
+                "full_name": "noun"
+            },
+            "vt": {
+                "meanings": ["draw", "write"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "sona",
+        "definitions": {
+            "n": {
+                "meanings": ["knowledge", "wisdom", "intelligence", "understanding"],
+                "full_name": "noun"
+            },
+            "vt": {
+                "meanings": ["know", "understand", "know how to"],
+                "full_name": "transitive verb"
+            },
+            "vi": {
+                "meanings": ["know", "understand"],
+                "full_name": "intransitive verb"
+            },
+            "kama": {
+                "meanings": ["learn", "study"],
+                "full_name": "compound verb proceeded by 'kama'"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "soweli",
+        "definitions": {
+            "n": {
+                "meanings": ["animal", "especially land animal", "lovable animal"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "suli",
+        "definitions": {
+            "mod": {
+                "meanings": ["big", "tall", "long", "adult", "important"],
+                "full_name": "modifier"
+            },
+            "vt": {
+                "meanings": ["enlarge", "lengthen"],
+                "full_name": "transitive verb"
+            },
+            "n": {
+                "meanings": ["size"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "suno",
+        "definitions": {
+            "n": {
+                "meanings": ["sun", "light"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "supa",
+        "definitions": {
+            "n": {
+                "meanings": ["horizontal surface, e.g. furniture", "table", "chair", "pillow", "floor"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "suwi",
+        "definitions": {
+            "n": {
+                "meanings": ["candy", "sweet food"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["sweet", "cute"],
+                "full_name": "modifier"
+            },
+            "vt": {
+                "meanings": ["sweeten"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "tan",
+        "definitions": {
+            "n": {
+                "meanings": ["origin", "cause"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "taso",
+        "definitions": {
+            "mod": {
+                "meanings": ["only", "sole"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "tawa",
+        "definitions": {
+            "n": {
+                "meanings": ["movements", "transportation"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["moving", "mobile"],
+                "full_name": "modifier"
+            },
+            "vi": {
+                "meanings": ["go", "leave", "walk", "travel", "move"],
+                "full_name": "intransitive verb"
+            },
+            "vt": {
+                "meanings": ["move", "displace"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "telo",
+        "definitions": {
+            "n": {
+                "meanings": ["water", "liquid", "juice", "sauce"],
+                "full_name": "noun"
+            },
+            "vt": {
+                "meanings": ["water", "wash with water"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "tenpo",
+        "definitions": {
+            "n": {
+                "meanings": ["time", "period of time", "movement", "duration", "situation"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "toki",
+        "definitions": {
+            "n": {
+                "meanings": ["language", "talking", "speech", "communication"],
+                "full_name": "noun"
+            },
+            "vt": {
+                "meanings": ["say"],
+                "full_name": "transitive verb"
+            },
+            "vi": {
+                "meanings": ["talk", "chat", "communicate"],
+                "full_name": "intransitive verb"
+            },
+            "interj": {
+                "meanings": ["hello!", "hi!"],
+                "full_name": "interjection"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "tomo",
+        "definitions": {
+            "n": {
+                "meanings": ["indoor constructed space, e.g. house, home, room, building"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["urban", "domestic", "household"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "tu",
+        "definitions": {
+            "mod": {
+                "meanings": ["two"],
+                "full_name": "modifier"
+            },
+            "n": {
+                "meanings": ["duo", "pair"],
+                "full_name": "noun"
+            },
+            "vt": {
+                "meanings": ["double", "seperate/cut/divide in two"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "unpa",
+        "definitions": {
+            "n": {
+                "meanings": ["sex", "sexuality"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["erotic", "sexual"],
+                "full_name": "modifier"
+            },
+            "vt": {
+                "meanings": ["have sex with", "sleep with"],
+                "full_name": "transitive verb"
+            },
+            "vi": {
+                "meanings": ["have sex"],
+                "full_name": "intransitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "uta",
+        "definitions": {
+            "n": {
+                "meanings": ["mouth"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["oral"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "utala",
+        "definitions": {
+            "n": {
+                "meanings": ["conflict", "disharmony", "competition", "fight", "war", "battle", "attack", "blow", "argument", "physical or verbal violence"],
+                "full_name": "noun"
+            },
+            "vt": {
+                "meanings": ["hit", "strike", "attack", "compete against"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "walo",
+        "definitions": {
+            "mod": {
+                "meanings": ["white", "light (colour)"],
+                "full_name": "modifier"
+            },
+            "n": {
+                "meanings": ["white thing/part", "whiteness", "lightness"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "wan",
+        "definitions": {
+            "mod": {
+                "meanings": ["one", "a"],
+                "full_name": "modifier"
+            },
+            "n": {
+                "meanings": ["unit", "element", "particle", "part", "piece"],
+                "full_name": "noun"
+            },
+            "vt": {
+                "meanings": ["unite", "make one"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "waso",
+        "definitions": {
+            "n": {
+                "meanings": ["bird", "winged animal"],
+                "full_name": "noun"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "wawa",
+        "definitions": {
+            "n": {
+                "meanings": ["energy", "strength", "power"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["energetic", "strong", "fierce", "intense", "sure", "confident"],
+                "full_name": "modifier"
+            },
+            "vt": {
+                "meanings": ["strengthen", "energize", "empower"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "weka",
+        "definitions": {
+            "mod": {
+                "meanings": ["away", "absent", "missing"],
+                "full_name": "modifier"
+            },
+            "n": {
+                "meanings": ["absence"],
+                "full_name": "noun"
+            },
+            "vt": {
+                "meanings": ["throw away", "remove", "get rid of"],
+                "full_name": "transitive verb"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }, {
+        "word": "wile",
+        "definitions": {
+            "vt": {
+                "meanings": ["to want", "need", "wish", "have to", "must", "will", "should"],
+                "full_name": "transitive verb"
+            },
+            "n": {
+                "meanings": ["desire", "need", "will"],
+                "full_name": "noun"
+            },
+            "mod": {
+                "meanings": ["neccessary"],
+                "full_name": "modifier"
+            }
+        },
+        "examples": [],
+        "misc": {
+            "notes": ""
+        }
+    }
+]

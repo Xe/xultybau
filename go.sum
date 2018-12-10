@@ -2,3 +2,5 @@ github.com/ghigt/gocyk v0.0.0-20140825153637-3e21d515bbf4 h1:V1jK9dcr5k9g+Lt5NmI
 github.com/ghigt/gocyk v0.0.0-20140825153637-3e21d515bbf4/go.mod h1:EqmB5jucCfbHbcMWQTuP28yDdW2fk/I+RJ5ZGTxtdYA=
 github.com/kkdai/cyk v0.0.0-20181107105257-d39a1d2186f4 h1:BNX8qKxMIwDstP80HtLL8mxjeYGvj2Dbyi+7Mqkco0Y=
 github.com/kkdai/cyk v0.0.0-20181107105257-d39a1d2186f4/go.mod h1:GF0FFxNWtRYGCvplO/OAO5t2+lXzQGNZ+Sb4kwFjXuk=
+github.com/mattn/go-sqlite3 v1.10.0 h1:jbhqpg7tQe4SupckyijYiy0mJJ/pRyHvXf7JdWK860o=
+github.com/mattn/go-sqlite3 v1.10.0/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
